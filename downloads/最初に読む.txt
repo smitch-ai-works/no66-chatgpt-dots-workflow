@@ -1,0 +1,12 @@
+すみっち式 ChatGPT dots 任せ方スタートブック
+
+教材一式ZIPを使う場合は、展開してindex.htmlをブラウザで開いてください。
+research.txt：リサーチと台本
+revise.txt：台本の見直し
+save.txt：結果の保存
+admin.txt：メール・経費の補足
+
+対象プランと料金はOpenAI公式で確認してください。
+https://help.openai.com/en/articles/20001530-getting-started-with-your-dot
+
+図解と指示文で進める教材です。指示文を実行して返った結果を確認し、保存して使ってください。
